@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+
+
+# Pycache
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+dist/
+build/
+*.egg-info/
+
+
+# Raw Data Files
+data/
